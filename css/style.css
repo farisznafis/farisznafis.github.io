@@ -1,0 +1,21 @@
+.jumbotron img {
+	width: 200px;
+	border: 5px solid #000;
+}
+
+h2, p{
+	font-family: Lucida Console;
+}
+
+hr {
+	width: 250px;
+	border-top: 3px solid #000;
+}
+
+section {
+	min-height: 500px;
+}
+
+.portfolio {
+	background-color: #eee;
+}
